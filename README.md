@@ -123,7 +123,6 @@ app.use(new ApiKeyMiddleware().use);
 | GET    | `/api/query?user_id=123`        | Get single user by ID   |
 | POST   | `/api/user`                     | Create a new user       |
 | PUT    | `/api/user/:id`                 | Update existing user    |
-| DELETE | `/api/user/:id`                 | Delete user by ID       |
 
 > 🔐 All routes require this header:
 >
