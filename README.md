@@ -1,6 +1,4 @@
----
 
-````markdown
 # 🚀 NestJS API Learning Summary
 
 This project documents my learning journey with **NestJS**, focusing on building scalable APIs using:
@@ -40,7 +38,6 @@ src/
 │   └── api-key.middleware.ts            # Header-based API key checker
 │
 └── ...other feature folders
-````
 
 ---
 
